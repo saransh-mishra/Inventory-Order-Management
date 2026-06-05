@@ -1,0 +1,29 @@
+# System Files
+.DS_Store
+Thumbs.db
+.metadata
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Node.js
+node_modules/
+dist/
+.npm
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
